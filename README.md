@@ -21,7 +21,7 @@
 
 | | |
 |---|---|
-| ![Screenshot 1](../../les%20photos%20des%20pages%20de%20site/Screenshot%20from%202024-05-22%2002-48-51.png) | ![Screenshot 2](../../les%20photos%20des%20pages%20de%20site/Screenshot%20from%202024-05-22%2002-49-12.png) |
+| ![Screenshot 1](screenshot/les%20photos%20des%20pages%20de%20site/Screenshot%20from%202024-05-22%2002-48-51.png) | ![Screenshot 2](screenshot/les%20photos%20des%20pages%20de%20site/Screenshot%20from%202024-05-22%2002-49-12.png) |
 
 ### Interface Principale
 
